@@ -341,7 +341,8 @@ The manager plays a key role in getting people promoted.
 ⚠️If you avoid tackling negative feedback until it builds to a building point m, you’re going to be met with a pile of excuses.
 
 ## Managing a team (p75)
-- The Engineering lead is an **independant manager**.
+- The Engineering lead is an **independant manager**.  
+Roles:
     - Manage team members with different skill sets from their own
     - Communicate expectations clearly
     - Solicit and deliver individual feedback frequently
@@ -351,10 +352,198 @@ The manager plays a key role in getting people promoted.
         - do cost/benefit analysis for resolving the debt
         - communicate suggested timelines for this.
 
-- **Staying technical**.
-    - Engineering management is a **technical discipline**, not just a set of people skills.
-    - Your job will require that you guide technical decision making. **Technical instincts** honed over years of doing the job are very important for guiding this process.
-    - If you truly wish to command the respect of an engineering team, they must see you as **technically credible**.
+### **Staying technical**.
+- Engineering management is a **technical discipline**, not just a set of people skills.
+- Your job will require that you guide technical decision making.
+    - **Technical instincts** honed over years of doing the job are very important for guiding this process.
+- If you truly wish to command the respect of an engineering team, they must see you as **technically credible**.
+
+
+### Debugging dysfunctional teams
+- **Not shipping**
+    - Learn how to balance pushing your team and holding back.
+    - Start to push for the removal of processes bottlenecks:
+        - poor tooling around releases
+        - heavily manual testing
+        - features too big
+        - developers who don’t know how to break their work down
+        - etc
+
+
+- **People drama**
+    - The **"brillant asshole"**:
+        - he is productive and smart, but isn’t a team player and makes everyone around him unhappy.
+        - Be prepared to have a series of conversations with both the employee and your boss.
+    - The **negative person** (= "energy vampires"):
+        - Sometimes he is just unhappy and the best thing to do is to help him leave the team on good terms.
+        - Be careful that vocally negative people don’t stay in that mindset on your team for long.
+        - Quick action is essential.
+
+- **Unhappiness due to work**
+    - If overwork is due to (in)stability of the production system:
+        - **slow down the product roadmap** in order to focus on stability for a while.
+        - make **clear measure** of alerts, downtime, and incidents, and strive to reduce them.
+    - If overwork is due to a pressing, time-critical release: you should be a **cheerleader**. Support the team however they need supporting:
+        - Order dinner.
+        - Thell them you appreciate the hard work.
+        - Make it clear they’ll have explicit break time after the push.
+        - Make it as fun as you can in the moment.
+
+- **Collaboration problems**
+    - Make sure you’re having regular touch-bases (product team, design team, or another tech team) to work through issues:
+        - Gather actionable feedback from your team.
+        - Have productive conversations about possible improvements.
+        - Try to stay positive and supportive of the other teams efforts in public.
+    - Look into creating some opportunities for the team to hang out without it being all about work:
+        - Taking the whole team to lunch
+        - Leaving work early on a Friday afternoon to attend a fun event together
+        - Encouraging some PG-rated humor in chat rooms
+        - Asking people how their lives are going
+
+### **The shield**
+
+It’s valuable for everyone to realize that they can and should focus on the things they can impact and change, and ignore the things they can’t.
+
+- Yes, shielding your team from distractions is important:
+    - help them understand the key important goals
+    - focus them on these goals
+- But it’s unrealistic to expect that you can or should shield your team from everything.
+    - Sometimes it’s appropriate to let some of the stress through the team.
+        - The goal is not to stress them out, but to help them get context into what they are dealing with.
+        - Appropriate context is what helps teams make good decisions about how and where to focus their energy.
+        - It’s not your job to make all of those decisions by yourself.
+    - Another error that the shield sometimes makes is denying that any drama exists in the outside world.
+        - If layoffs happen in another part of the company and the team finds out from someone else, you’ve created a situation where they feel like something bad is happening and no one wants to admit it.
+        - If you instead communicate information about such events in a straightforward, low-emotion way, you alleviate the gossip and quickly neutralize the impact on your team.
+    - You are _not_ a parent.
+        - Sometimes, in combining the roles of shield and mentor we end up in a parenting-style relationship with our team, and treat them more fragile children to be protected, nurtured, and chided as appropriate.
+        - Your team is made up of adults who need to be treated with appropriate respect.
+
+### How to drive good decisions
+While the product manager is responsible for the product roadmap, and the tech lead is responsible for the technical details, you are accountable for the **teams progress** through each of these elements.
+
+While you may only have the authority to guide decisions rather than dictate them, you’ll still be judged by how well those decisions turn out.
+
+- **Create a data-driven team culture**
+    -  Start tracking data about:
+        - team productivity (ex: time it takes to complete features)
+        - quality mesures (ex: how much time is spent dealing with outages, or number of bugs found in QA)
+    - These efficiency and technical data points can be used to evaluate decisions on both product features and technical changes.
+
+- **Flex your product muscles**
+    - You have some group that depends on the output of your work.
+    - Threat them as your customer.
+    - Take time to develop customer empathy.
+    - It will help you give context to the team and invest engineering effort.
+
+- **Look into the future**
+    - You need to think two steps ahead, from a product and technology perspective.
+    - Getting a sense of where the product roadmap is going helps you guide the technical roadmap.
+    - Start asking the product team questions about what the future might look like.
+    - Spend some time keeping up with technological developments.
+
+- **Review the outcome of your decisions and projects**
+    - Was it true that the team moved faster after you rewrote that system?
+    - Did customer behavior change in the way the product team predicted?
+    - What have you learned from your A/B tests?
+
+- **Run retrospectives for the processes and day-to-day**
+    - Is the team feeling good about how they get requirements?
+    - Do they feel good about the code quality?
+    - This process helps you learn how the decisions you make over time affect the way your team operates in the day-to-day.
+    - This is more subjective than gathering data about the team’s health, but more valuable than many objective measures.
+
+### Managing conflict 
+Conflict-avoidant managers tend to favor harmony above functional working relationships. Creating a safe environment for disagreement to work itself out is far better than pretending that all disagreement does not exist.
+
+- **The dos and don’ts of managing conflict**
+    - Don’t rely exclusively on consensus or voting
+    - Do set up clear processes to depersonalize decisions. The group needs to have a clear set of standards that they use to evaluate decisions. Share understanding of the goals, risks and questions to answer before making a decision.
+    - Don’t turn a blind eye to simmering issues. Conflict avoidance manifests in an inability to address problems until they’ve gone on for way too long.
+    - Do address issues without courting drama. The goal is to identify problems and resolve them, no to become the team's therapist.
+    - Don’t take it out on other teams.
+    - Remember to be kind. Your goal is not to be nice, it is to be kind.
+    - Don’t be afraid. Conflict avoidance often arises from fear.
+    - Get curious.
+
+- **Team cohesion destroyers**
+    - Build teams that work well and happily together:
+        - The real goal is **psychological safety**.
+        - Build a team whose members are willing to take risks and make mistakes in front of one another. This is the underpinning of a successful team.
+        - Take time to get to know people as human beings:
+            - Ask them about their extracurricular lives and interests.
+            - This more than empty small talks. It fosters relatedness, the sense of people as individuals and not just anonymous cogs.
+        - Teams that are friendly are happier, gem faster, and tend to produce better results.
+        - This is why those who underline team cohesion are so problematic.
+        - They make is hard for the rest of the team to feel safe around them.
+
+    - **The brilliant jerk**
+        - Produces individual outsized results, but is ego-driven.
+        - Creates a mixture of fear and dislike in everyone around them.
+        - If they don’t see the behavior as a problem, they won’t change it.
+        - You alone won’t be able to convince them that their behavior is a problem.
+        - If possible, do not hire one. And do not promote them.
+        - Openly refuse to tolerate bad behavior.
+        - Have a have tight control of your own reaction because delivering this in public is walking a fine line.
+        - If you seem emotional, it may undermine you.
+        - Your first goal is to protect your team as a whole, the second is to protect each individual on the team, and your last priority is protecting yourself.
+
+    - **The non communicator**
+        - The person who hides information from you, from your teammates or from his product manager.
+        - You have to nip this information-hiding in the bud as soon as possible.
+        - If necessary, make it clear he’s not meeting expectations for his work.
+        - This person disrupts team cohesion because he isn’t being collaborative with the rest of his teammates.
+        - Address the root cause of the hiding.
+            - Is the hider afraid of being criticized?
+            - Does your team have a harsh culture?
+            - Does your team have that psychological safety in general?
+            - Is the rest of the team treating this person as an outsider?
+
+    - **The employee who lacks respect**
+        - This person doesn’t respect you as a manager or doesn’t respect her teammates.
+        - Addressing this person may require some help from your manager.
+        - If you can handle this yourself, it’s a sign of great character.
+        - Ask her if she wants to be working on your team.
+        - Lay out what you expect, clearly and calmly.
+        - You can’t have a person working for you who doesn’t respect you, or doesn’t respect your team.
+
+### Advanced project management
+Project management rules of thumb:
+
+- **None of this is a replacement for agile project management**
+    - Most teams have both high level, long term goals, and short term objectives that will enable them to meet those goals.
+    - You are responsible for the larger picture. The accomplishments that are measured in months instead of weeks.
+
+- **You have 10 productive engineering weeks per engineer per quarter.**
+    - Don’t expect to get more than 10 weeks worth of focused efforts on the main projects per team member per quarter.
+    - Q1 will be the most productive and S4 will be the least productive.
+
+- **Budget 20% of your time for generic sustaining engineering work across the board**
+    - Testing, debugging, cleaning up legacy code, migrating language or platform version, etc.
+    - Make it a habit. Use it to tackle some of the midsize legacy code every quarter and get decent improvements.
+
+- **As you  approach deadlines, it is your job to say no**
+    - If necessary, cut scope at the end of the project.
+    - Figure out what "must-haves" are not actually must-haves.
+
+- **Use the doubling rule for quick estimates, but push for planning time to estimate longer tasks.**
+    - Whenever asked for an estimate, take your guess and double it.
+    - If needed, make it clear that you’ll need some planning time before you’re sure about the timescale.
+
+- **Be selective about what you bring to the team to estimate**
+    - It’s distracting and stressful for engineers to have a manager who’s constantly asking them for random project estimates.
+    - You’re responsible for handling uncertainty and limiting how much of that uncertainty you expose to the team.
+
+### First weeks joining a small team as a manager:
+- If there’s a developer onboarding process, go through that process.
+- Start watching the code reviews or pull requests.
+- Plan to work on at least a couple of features in your first 60 days.
+- Pair with one of the engineers.
+- Get your code reviewed.
+- Perform a release.
+- By getting to know the code, the processes for writing code, and the tools and systems your team use for their day-to-day, you will gain the understanding necessary for managing the team, and the technical credibility necessary for then to see you as a capable leader.
+
+_____
 
 
 TODO. Learning in progress :)
