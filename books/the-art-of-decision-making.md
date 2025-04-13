@@ -140,9 +140,85 @@ Decisions are about creating the least imperfect and most viable balance between
 
 ### Fears about the consequences of our choices
 
-3. **Fear of failure**
+1. **Fear of failure**
 
+Failure is, at least partially, outside of our control.
 
+We can try to mitigate risk through our actions on the things we control. However, **we will only bring frustration if we try to gain control over anything that sits outside our sphere of influence**.
+
+Fear of failure isn’t fear of risk but rather **fear of the consequences of risk**, and the uncertainty surrounding those consequences.
+
+The binary vision of the world (_"it will necessary be a choice between right and wrong"_) is a false construct. The more we try to distinguish right from wrong, the less we are able to discern between them.
+
+The best decision-makers are those who respond lightly to chaos, wherever possible, rather than imagining they can still its turbulence by a large measure of reason. **Be creative and accepting, rather than fearful and resistant**, and you are likelier to prevail.
+
+Fear of failure may be linked to the fear of the consequences on others (partner, parents, colleague, etc).
+**We are often wrong about how they are thinking**.
+Not only are we overly focus on other people's judgement, but **our perception of their expectations is also distorted by bias**.
+
+2. **Fear of heights**
+
+This is the fear that sets in when we ask ourselves: _what if it works?_
+
+These positive prospects might fill us with joy, but they may also **create their own flavor of anxiety**. Because success will create its own demands.
+
+The fear of heights is not the fear of vertigo but a **fear of achievement** (_where do I go next?_).
+
+Sometimes we may hold back from a decision because we know in advance that we lack the resources to deal with the impact of success.
+
+3. **Fear of identification**
+
+It’s the belief that any criticism of what we have created is a criticism of the intrinsic self. Our inner voice tells us: _you are what you do_.
+
+Identification with our work and our actions is a common source of fear.
+
+We worry that our name will forever be associated with the enterprise, which will define us, and necessarily limit us.
+
+This limitation reduces our scope by **creating artificial boundaries for us**. Hence, the fear of identification is also a **fear of narrowness**.
+
+The best decision-making emerges when we **allow ourselves to be authentic**. Worrying about how a decision will make us appear to others is likely to result in poor choices, and will rob us of any prospect of true fulfillment.
+
+4. **Fear of lack of recognition**
+
+This fear is that a project that is not truly ours will use our time and energy and distract us from our own personal agenda. This is also the fear of being taken for granted, of being disrespected.
+
+A fully rounded person will always allow empathy to enter the field of play.
+
+TODO
+
+5. **Fear of selfishness**
+
+It’s the fear of upsetting others, or of being perceived as acting in a selfish manner.
+
+Our path cannot be constantly obstructed by this concern. Only by being grounded in our own personality can we truly be of service to others.
+
+**We are not responsible for people’s emotional states**, only for our own acts and intentions, and for ensuring that we do not willfully or negligently cause harm.
+
+The solution is to **not overrule our decisions**. Tend to your psyches and start exploring the joy that comes from giving without expectations.
+
+## Chapter 4. Through the looking glass
+
+When during childhood your psyche has been affected by the experience and internalization of engulfment/insufficient anxiety, it is likely that **later in like you will seek to overcompensate for what has been lacking**.
+
+When it come to decision-making, if we are stuck in a similar patterns we may suddenly find that every decision seems labeled with the words "mission impossible".
+
+There are eleven places where we may get stuck.
+
+- **Abandonment**. Fear of being abandoned by your partner or someone else important to you.
+- **Mistrust/abuse**. You mistrust others or tend to find yourself in abusives situations.
+- **Emotional deprivation**. You feel you will never obtain the love you need.
+- **Dependence**. You feel unable to keep going without having someone to look after you.
+- **Defectiveness**. You feel there is something seriously wrong with you, though you might not know quite what it is.
+- **Social exclusion**. You feel like an outsider, unable to fit in well with everyone else.
+- **Failure**. You feel yourself as a failure, based on your poor track record for success.
+- **Entitlement**. You feel that the world owes you something.
+- **Subjugation**. You feel controlled by other people.
+- **Vulnerability**. You feel something terrible is likely to happen to you personally.
+- **Unrelenting standards**. You feel you must push yourself constantly, allowing not one for rest or enjoyment.
+
+Identifying where we are stuck is essential.
+
+These wounds are commonplace and can affect all of us. Our decision making can be improved if we are honest enough to probe our own insecurities.
 
 _____
 
