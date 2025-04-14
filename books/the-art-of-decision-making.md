@@ -220,6 +220,76 @@ Identifying where we are stuck is essential.
 
 These wounds are commonplace and can affect all of us. Our decision making can be improved if we are honest enough to probe our own insecurities.
 
+### Key skill: How to manage risk
+
+When a risk is identified, you are faced with four clear options: **accept**, **reduce**, **transfer** or **avoid**.
+
+- **Acceptance** if best undertaken after you have **reduced** the risk as much as possible without diminishing the reward too much.
+- **Transferring** means involving others in your enterprise. For example, finding a financial backer.
+- **Avoidance** means either:
+    - accepting the current situation instead of deciding on a risky new adventure
+    - or else looking for a safer method of changing what is unsatisfactory about the status quo.
+
+An effective person will move toward their vision **knowing there will be failures on the way**, often requiring an improvised change of strategy. **Failure teaches better than success**.
+
+#### All-around thinking
+Risk management should be a key part of every project.
+Seeking views from people with relevant experience is an essential part of the assessment process.
+
+It is important to clarify **who owns the risk**:
+- if it’s apparent from the beginning, the risks are likely to be better monitored and controlled.
+- if there is no clarity, failure will likely result in a miasma of confusion and blame.
+
+Finally you need to **plan what happens if things go right** as well as if things go wrong.
+Any undertaking has built-in opportunities as well as risks, and both should be scrutinized equally.
+
+
+# Part II. Where are thou?
+
+## Chapter 5. Self starters
+
+If the Self is implicated in decisions, it has to be:
+- responsible, as an active agent.
+- answerable and accountable for the consequences of a decision.
+
+Behind any lack of decisiveness, there is a lack of implication.
+
+## Chapter 6. Hidden chambers
+
+The COSARC pyramid:
+Creativity
+Options
+Selection
+Action
+Resolve
+Completion
+
+### 1. Creativity
+
+Creativity in decision making depends heavily on **intuition**.
+
+Our exploration must begin with **our own feelings, sensations and intuition** about what’s is needed.
+
+This can often be nourished if you try to **think like a child again**. As adults we form attachments to what we believe are sophisticated ways of thinking, but often these approaches are over-complex and sidestep our most direct and deeply felt responses. Recapturing a child’s direct vision can be deeply liberating.
+
+### 2. Options
+
+One of the key principles of negotiation is that **the more options we create** (within reason), **the more likely we are to arrive at a mutually satisfactory outcome**.
+
+We never really run out of options. Any situation is a junction from which many possibilities lead, even if some of them are hidden.
+
+Studying other people’s experiences gives us a multi-sidedness that can enrich our decision making. However, **we should also aim to generate this multi-sidedness within ourselves, and by ourselves**.
+
+One way of achieving this is by **reframing our decisions**.
+
+Reframing and rephrasing can have a critical impact on our decisions without altering the options.
+Exemple when facing surgery with 2 possible framings: _“survival rate of 90%”_ vs _“mortality rate of 10%”_. The first framing **increases acceptance, even though the situation remains identical**.
+
+### 3. Selection
+### 4. Action
+### 5. Resolve
+### 6. Completion
+
 _____
 
 
