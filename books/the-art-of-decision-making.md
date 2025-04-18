@@ -285,10 +285,51 @@ One way of achieving this is by **reframing our decisions**.
 Reframing and rephrasing can have a critical impact on our decisions without altering the options.
 Exemple when facing surgery with 2 possible framings: _“survival rate of 90%”_ vs _“mortality rate of 10%”_. The first framing **increases acceptance, even though the situation remains identical**.
 
+Decision is also about avoiding a single-issue focus.
+
 ### 3. Selection
+
+Decision making is about **discernent**, including discerning what your personal needs and priorities are.
+
+To focus too much on the details of the possible choices available can lead to a decision that is not thoroughly informed by self-knowledge, therefore flawed.
+
+Think of yourself as steering a ship though a complicated passage amidst hazards. **Your ultimate concern if not the hazards but the ship itself**, which must end intact, safe, and set toward an appropriate future.
+
 ### 4. Action
+
+When we get to action, **there should be no room left for the expression of doubt**.
+
+Our individual world will not be born out of the parts of us that doubt.
+
+It needs to start with faith in ourselves: **the belief that we can do it**.
+
 ### 5. Resolve
+
+> Wherever you go, go with all your heart.  
+> -Confucius
+
+Go one step at a time and don’t ever go backwards.
+
 ### 6. Completion
+
+Failing to recognize that something they had underway has not ended is an issue many people commonly gave in daily life.
+
+To clean the slate for effective decision making **you need to recognize when an issue is concluded**, for better or worse.
+
+# Part III. The momentum of decisiveness
+
+## Chapter 7. Of the essence
+
+Momentum is a matter of the efficiency of the flow between our thoughts.
+
+The speed at which we come to a decision is secondary to how seamlessly efficient is the flow toward that decision.
+
+## Chapter 8. Decision flow
+
+> Flow is being completely involved in an activity for its own sake. The ego falls away. Time flies. Every action, movement and thought follows inevitably from the previous one, like playing jazz.  
+> -Mihaly Csikszentmihalyi
+
+### Creating flow
 
 _____
 
