@@ -2,6 +2,10 @@
 A Guide for Tech Leaders Navigating Growth and Change.\
 **Camille Fournier**, 2017.
 
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484107737i/33369254.jpg" height="200" />
+
+[The Manager's Path on Goodreads](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
+
 ___
 
 # Management 101 (p1)

@@ -2,6 +2,10 @@
 How we Move from Indecision to Smart Choices.\
 **Joseph Bikart**, 2019.
 
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555596940i/45167413.jpg" height="150" />
+
+[The Art of Decision-Making on Goodreads](https://www.goodreads.com/book/show/45167413-the-art-of-decision-making)
+
 ___
 
 # Part I. Indecision

@@ -2,6 +2,11 @@
 L'espace comme aucun humain ne l'a jamais vu.\
 **Christophe Galfard**, 2023.
 
+
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1719634927i/177705522.jpg" height="200" />
+
+[Voyage vers l'infini on Goodreads](https://www.goodreads.com/book/show/177705522-voyage-vers-l-infini)
+
 ___
 
 ## Notre voisinage galactique

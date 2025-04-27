@@ -2,9 +2,15 @@
 Surviving the Climate Crisis.\
 **Christiana Figueres** and **Tom Rivett-Carnac**, 2020.
 
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577771399l/52117860.jpg" height="200" />
+
+[The Future We Choose on Goodreads](https://www.goodreads.com/book/show/52117860-the-future-we-choose)
+
+___
+
 > Let us not pray to be sheltered from dangers, but to be fearless when facing them.\
 -Rabindranath Tagore
-___
+
 
 # Part II. Three mindsets
 
