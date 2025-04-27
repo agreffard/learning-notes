@@ -15,11 +15,18 @@ L’invisible semble n’exister que dans l’obscurité, mais il est là en per
 
 ### La Voie Lactée
 
+<img src="https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2014/03/voie-lactee-mais-combien-elle-bras-750x410.jpg" height="200" />\
+_La Voie Lactée, vue du dessus._
+
 Nos ancêtre pensaient que la Voie lactée était la totalité de notre Univers, mais nous savons aujourd’hui que l’Univers est bien plus grand qu’elle.
 
 C’est un rassemblement de **plusieurs centaines de millards d’étoiles**.
 
 Il existe une poignée d’autres corps célestes, bien plus lointains, que l’on peut aussi apercevoir à l’œil nu.
+
+### Les nuages de Magellan
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Magellanic_Clouds_%E2%80%95_Irregular_Dwarf_Galaxies.jpg" height="200" />
 
 Les nuages de Magellan ont été nommés ainsi en l’honneur de l’explorateur Fernand de Magellanic qui s’est servi d’eux pour se repérer la nuit, alors qu’il voguait sur des océans inconnus.
 
@@ -47,8 +54,11 @@ Pour l’étoile la plus lointaine visible à l’œil nu, nommée V762 Cas, ce 
 
 Pour Andromède, il est de **2,5 millions d’années**.
 
+(Fin)
 
 ### Andromède
+
+<img src="https://www.cieletespace.fr/media/default/0001/15/M31_UV_900x600-5a8d.jpeg" height="200" />
 
 Andromède est la plus majestueuse des galaxies de notre voisinage cosmique. Gigantesque, **elle couvre dans le ciel une zone trois à quatre fois plus large que la pleine Lune** alors qu’elle est quatre-vingt mille milliards de fois plus éloignée.
 
