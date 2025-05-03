@@ -11,6 +11,108 @@ ___
 > Let us not pray to be sheltered from dangers, but to be fearless when facing them.\
 -Rabindranath Tagore
 
+# Part I. Two worlds
+
+## Chapter 1. Choosing Our Future
+
+In deciding what kind of works we and future generations will live in, we don’t have many options. **We have in fact only two, both of which are set out in the Paris Agreement**.
+
+We present two scenarios. One or the other will become our reality.
+
+To have at least a 50 percent chance of success (which in itself is an unacceptably high level of risk), we must:
+- cut global emissions to half their current levels by 2030
+- half again by 2040
+- finally to net zero by 2050 at the very latest.
+
+A change of this magnitude would require **major transformations in almost every area of life and work**.
+
+### Chapter 2. The world we are creating
+
+It is 2050.\
+No efforts were made to control emissions.\
+We are heading for a world that will be **more than 3 degrees warmer by 2100**.
+
+- **The air is hot**, heavy, and clogged with particulate pollution.
+- You often wear a mask to protect yourself from **air pollution**.
+- Most of the forests are either logged or consumed by **wildfire**.
+- In five to ten years, vast swaths of the planet will be increasingly **inhospitable to humans**.
+- No one knows what the future holds for their children and grandchildren.
+- **Corals are now almost gone**.
+- There is **no summer Arctic sea ice** anymore.
+- Costal cities in Bangladesh, Mexico, the United States, and elsewhere have seen a surge in **extreme hurricanes** and **tropical storms**.
+- Because of rising water levels, some part of the world must **evacuate to higher ground**.
+- It can take weeks or months for basic food and water relief to reach areas pummeled by extreme floods.
+- Diseases such as **malaria, dengue, cholera, respiratory illnesses** and **malnutrition** are rampant.
+- **Droughts and heat waves** inland have created a special hell.
+- Vast regions have succumbed to severe **aridification** or even **desertification**.
+- These places **can barely support human life**.
+- If you live in Paris, you endure summer temperatures that regularly rise to **44 degrees Celsius**.
+- For 2 billion people who live in the hottest parts of the world, temperatures skyrocket to** 60 degrees Celsius** forty-five days per year.
+- Mass migrations to less hit rural areas are beset by a host of **refugee problems**, **civil unrest**, and bloodshed over **diminished water availability**.
+- Inland glaciers around the world are quickly disappearing. Now there are either torrential rains leading to **flooding** or **prolonged droughts**.
+- There are **conflicts over water**.
+- The taps in nearly all public facilities are locked.
+- More people are starving than ever before.
+- The food supply is in general **highly unpredictable**.
+- **Disasters and wars rage**, choking off trade routes.
+- Entire regions suffer from **epidemics of stunting and malnutrition**.
+- **Infant mortality** has rocketed.
+- **Food riots, coups, and civil wars** are common.
+- **Stock markets are crashing**, currencies are wildly fluctuating, and the European Union has disbanded.
+- Most countries’ armies are now just highly militarized **border patrols**.
+- The news has taken a strange, seemingly controlled turn toward **distorting reality** and spinning a **falsely positive narrative**.
+- Diseases spread by **mosquitos and ticks** are rampant as these species flourish.
+- **The demise of the human species is being discussed**.
+
+### Chapter 3. The world we must create
+
+It is 2050.\
+We have been successful at halving emissions every decade since 2020.\
+We are heading for a world that will be **no more than 1,5 degrees Celsius warmer by 2100**.
+
+- **Trees** are everywhere.
+- **New electric railways** crisscross interior landscapes.
+- Most of our energy now comes from **renewable sources** like wind, solar, geothermal, and hydro.
+- **Smart tech** prevents unnecessary energy consumption.
+- Homes and buildings all over the world are becoming **self-sustaining** far beyond their electrical needs.
+- We’ve successfully rebuilt, reorganized, and restructures our lives to live in a **more localized way**.
+- Many people **work from home**.
+- Resources and responsibilities are **shared** now.
+- We transitioned to **regenerative farming practices**.
+- You buy most of your food from **small local farmers and producers**.
+- **Food is expensive**, consuming up to 30 percent of household budgets, which is why **growing your own** is a necessity.
+- Food seems to be growing everywhere (community gardens, rooftops, balconies, schools, vertical gardens. …).
+- **Animal protein air dairy products have basically disappeared** from our diets.
+- **Internal combustion engines are off the road**.
+- People from rural areas **moved to the cities**.
+- **We share electric cars**.
+- The goal has been to **eliminate private ownership of vehicles by 2050** in major metropolitan areas.
+- We have **reduced land transport needs**.
+- **Drones** are delivering packages.
+- Air travel still exists but is used more sparingly and is extremely costly.
+- People plan for **“slow-cations”**.
+- We’re **still dealing with the aftereffects of record levels of carbon dioxide in the atmosphere**:
+    - Glaciers and Arctic ice are still melting.
+    - Sea is still rising.
+    - Severe droughts and desertification are occurring in the western United States, the Mediterranean, and parts of China.
+    - Extreme weather and resource degradation multiply disparities in income, public health, food security and water availability.
+    - The ongoing refugee situation has been escalating for decades. But we stopped calling it a crisis. Countries agreed on guidelines for managing refugees influxes.
+
+### Conclusion
+
+Future generations will most likely look back at this moment as **the single most signifiant turning point for action**.
+
+What is needed now is a steadfast **commitment to the task** and an understanding that **failure is not an option**.
+
+Now we must move toward understanding our shared existence on this planet, not because it is a nice addendum to what we do but because it is a matter of survival.
+
+This is not the quest of one nation. This time **it’s up to all of us, all of the nations and peoples of the world**.
+
+Humanity is capable of coming together to do this.
+
+When the eyes of our children, and their children, look straight into ours, and they ask us “What did you do?” our answers cannot just be that we did everything we could. There is really only one answer. _We did everything that was necessary._
+
+Let it be **a story of great adventure, against overwhelming odds**.
 
 # Part II. Three mindsets
 
