@@ -4,6 +4,7 @@ Taking notes on books I read and things I learn.
 
 Greatly inspired by **Keyvan Akbary**'s [learning notes](https://github.com/keyvanakbary/learning-notes/).
 
+_Note: These learning notes sometimes contain extensive excerpts from articles and books I have purchased and read. The goal is to keep track of what I read and to help me learn. I always make sure to credit the original authors and I encourage readers to purchase the books. However, if you are the copyright holder and feel uncomfortable seeing these excerpts online, please feel free to contact me, and I’ll make sure to remove them._
 
 ### Books
 
