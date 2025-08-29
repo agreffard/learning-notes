@@ -8,6 +8,8 @@ _Note: These learning notes sometimes contain extensive excerpts from articles a
 
 ### Books
 
+- [Good to Great : Why Some Companies Make the Leap... and Others Don't](books/good-to-great.md) by **Jim Collins**, 2005.
+
 - [The Art of Decision-Making: How we Move from Indecision to Smart Choices](books/the-art-of-decision-making.md) by **Joseph Bikart**, 2019.
 
 - [The Future We Choose: Surviving the Climate Crisis](books/the-future-we-choose.md) by **Christiana Figueres** and **Tom Rivett-Carnac**, 2020.
