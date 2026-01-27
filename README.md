@@ -19,3 +19,7 @@ _Note: These learning notes sometimes contain extensive excerpts from articles a
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](books/the-managers-path.md) by **Camille Fournier**, 2017.
 
 - [[FR] Voyage vers l'infini](books/voyage-vers-l-infini.md) by **Christophe Galfard**, 2023.
+
+### Articles
+
+- [Things I’ve learned in my 10 years as an engineering manager](articles/lessons-learned-after-10-years-as-an-engineering-manager.md) by **Jampa Uchoa**, January 16, 2026
