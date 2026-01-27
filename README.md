@@ -22,4 +22,6 @@ _Note: These learning notes sometimes contain extensive excerpts from articles a
 
 ### Articles
 
+
+- [Creating momentum when an employee is stuck](articles/creating-momentum-when-an-employee-is-stuck.md) by **Lara Hogan**, January 20, 2026
 - [Things I’ve learned in my 10 years as an engineering manager](articles/lessons-learned-after-10-years-as-an-engineering-manager.md) by **Jampa Uchoa**, January 16, 2026
