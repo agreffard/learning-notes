@@ -10,6 +10,28 @@ How U.S. Navy SEALs Lead and Win
 
 ___
 
+- [Introduction](#introduction)
+
+- [Part I. Winning the war within](#part-i-winning-the-war-within)
+    - [Chapter 1. Extreme Ownership](#chapter-1-extreme-ownership)
+    - [Chapter 2. No Bad Teams, Only Bad Leaders](#chapter-2-no-bad-teams-only-bad-leaders)
+    - [Chapter 3. Believe](#chapter-3-believe)
+    - [Chapter 4. Check the Ego](#chapter-4-check-the-ego)
+
+- [Part II. The Laws of Combat](#part-ii-the-laws-of-combat)
+    - [Chapter 5. Cover and Move](#chapter-5-cover-and-move)
+    - [Chapter 6. Simple](#chapter-6-simple)
+    - [Chapter 7. Prioritize and Execute](#chapter-7-prioritize-and-execute)
+    - [Chapter 8. Decentralized Command](#chapter-8-decentralized-command)
+
+- [Part III. Sustaining Victory](#part-iii-sustaining-victory)
+    - [Chapter 9. Plan](#chapter-9-plan)
+    - [Chapter 10. Leading Up and Down the Chain of Command](#chapter-10-leading-up-and-down-the-chain-of-command)
+    - [Chapter 11. Decisiveness and Uncertainty](#chapter-11-decisiveness-and-uncertainty)
+    - [Chapter 12. Discipline Equals Freedom](#chapter-12-discipline-equals-freedom)
+
+
+___
 
 # Introduction
 

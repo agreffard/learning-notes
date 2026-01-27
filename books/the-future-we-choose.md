@@ -8,6 +8,38 @@ Surviving the Climate Crisis.\
 
 ___
 
+- [Part I. Two worlds](#part-i-two-worlds)
+    - [Chapter 1. Choosing Our Future](#chapter-1-choosing-our-future)
+    - [Chapter 2. The world we are creating](#chapter-2-the-world-we-are-creating)
+    - [Chapter 3. The world we must create](#chapter-3-the-world-we-must-create)
+    - [Conclusion](#conclusion)
+- [Part II. Three mindsets](#part-ii-three-mindsets)
+    - [Chapter 4. Who we choose to be](#chapter-4-who-we-choose-to-be)
+    - [Chapter 5. Stubborn optimism](#chapter-5-stubborn-optimism)
+    - [Chapter 6. Endless abundance](#chapter-6-endless-abundance)
+    - [Chapter 7. Radical regeneration](#chapter-7-radical-regeneration)
+- [Part III. Ten actions](#part-iii-ten-actions)
+    - [Action 1: Let go of the old world.](#action-1-let-go-of-the-old-world)
+    - [Action 2: Face your grief but hold a vision of the future.](#action-2-face-your-grief-but-hold-a-vision-of-the-future)
+    - [Action 3. Defend the Truth.](#action-3-defend-the-truth)
+    - [Action 4: See yourself as a Citizen - Not as a Consumer.](#action-4-see-yourself-as-a-citizen---not-as-a-consumer)
+    - [Action 5: Move beyond fossil fuels.](#action-5-move-beyond-fossil-fuels)
+    - [Action 6: Reforest the Earth.](#action-6-reforest-the-earth)
+    - [Action 7 : invest in a clean energy.](#action-7--invest-in-a-clean-energy)
+    - [Action 8: Use technology responsibly.](#action-8-use-technology-responsibly)
+    - [Action 9: Build gender equality.](#action-9-build-gender-equality)
+    - [Action 10 : Engage in politics](#action-10--engage-in-politics)
+- [What you can do now](#what-you-can-do-now)
+    - [Right now](#right-now)
+    - [Today or tomorrow](#today-or-tomorrow)
+    - [This week](#this-week)
+    - [This month](#this-month)
+    - [This year](#this-year)
+    - [By 2030](#by-2030)
+    - [Before 2050](#before-2050)
+
+___
+
 > Let us not pray to be sheltered from dangers, but to be fearless when facing them.\
 -Rabindranath Tagore
 
@@ -285,10 +317,8 @@ When considering an action, we have to ask: _Does it actively contribute to huma
 ### Action 10 : Engage in politics
 
 
-# Conclusion
 
-
-## What you can do now
+# What you can do now
 
 
 ### Right now

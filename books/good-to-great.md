@@ -10,8 +10,17 @@ Why Some Companies Make the Leap... and Others Don't
 
 ___
 
+- [Chapter 2 - Level 5 leadership](#chapter-2---level-5-leadership)
+- [Chapter 3 - First who… then what](#chapter-3---first-who-then-what)
+- [Chapter 4 - Confront the brutal facts (yet never lose faith)](#chapter-4---confront-the-brutal-facts-yet-never-lose-faith)
+- [Chapter 5 - The hedgehog concept (simplicity within the three circles)](#chapter-5---the-hedgehog-concept-simplicity-within-the-three-circles)
+- [Chapter 6 - A culture of discipline](#chapter-6---a-culture-of-discipline)
+- [Chapter 7 - Technology accelerators](#chapter-7---technology-accelerators)
+- [Chapter 8 - The flywheel and the doom loop](#chapter-8---the-flywheel-and-the-doom-loop)
 
-# Chapter 2: Level 5 leadership
+___
+
+# Chapter 2 - Level 5 leadership
 
 Level 5 hierarchy:
 - **Level 5 - level 5 executive**: builds enduring greatness through a paradoxical blend of personal humility and professional will.
@@ -155,7 +164,7 @@ The moment a leader allows himself to become the primary reality people worry ab
     - If you have the right people on the bus, you should almost never need to assign blame but need only to search for understanding and learning.
 - Build “red flags” mechanisms.
 
-# The hedgehog concept (simplicity within the three circles)
+# Chapter 5 - The hedgehog concept (simplicity within the three circles)
 
 **The three circles**:
 - What you can be the best in the world

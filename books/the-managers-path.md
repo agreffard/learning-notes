@@ -8,7 +8,50 @@ A Guide for Tech Leaders Navigating Growth and Change.\
 
 ___
 
-# Management 101 (p1)
+# [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
+
+- [1. Management 101](#1-management-101)
+  - [What to expect from a manager](#what-to-expect-from-a-manager)
+    - [One-on-one meetings](#one-on-one-meetings)
+    - [Feedback and workspace guidance](#feedback-and-workspace-guidance)
+    - [Training and career growth](#training-and-career-growth)
+  - [How to be managed](#how-to-be-managed)
+    - [Spend time thinking about what you want](#spend-time-thinking-about-what-you-want)
+    - [You are responsible for yourself](#you-are-responsible-for-yourself)
+    - [Give your manager a break](#give-your-manager-a-break)
+    - [Choose your manager wisely](#choose-your-manager-wisely)
+
+- [Mentoring](#mentoring)
+  - [“alpha geek”](#alpha-geek)
+
+- [Tech lead](#tech-lead)
+  - [Tech lead main roles](#tech-lead-main-roles)
+  - [Managing a project](#managing-a-project)
+  - [How to be a great tech lead?](#how-to-be-a-great-tech-lead)
+
+- [4. Managing people](#4-managing-people)
+  - [How to start a new reporting relationship.](#how-to-start-a-new-reporting-relationship)
+  - [1-1: different 1-1 styles](#1-1-different-1-1-styles)
+  - [Delegating](#delegating)
+  - [Creating a culture of continuous feedback](#creating-a-culture-of-continuous-feedback)
+  - [Performance reviews](#performance-reviews)
+  - [How to identify potential?](#how-to-identify-potential)
+  - [Cultivating careers](#cultivating-careers)
+  - [Firing underperformers](#firing-underperformers)
+
+- [5. Managing a team](#5-managing-a-team)
+  - [Staying technical](#staying-technical)
+  - [Debugging dysfunctional teams](#debugging-dysfunctional-teams)
+  - [The shield](#the-shield)
+  - [How to drive good decisions](#how-to-drive-good-decisions)
+  - [Managing conflict](#managing-conflict)
+  - [Advanced project management](#advanced-project-management)
+  - [First weeks joining a small team as a manager](#first-weeks-joining-a-small-team-as-a-manager)
+
+
+___
+
+# 1. Management 101
 
 ## What to expect from a manager
 
@@ -71,15 +114,15 @@ ___
     - can get you attention and feedback from important people
     - have strong networks. They can get you jobs even after you stop working for them.
 
-## Mentoring (p11)
+# Mentoring
 TODO
 
-###  “alpha geek”
+##  “alpha geek”
 
 
-## Tech lead (p32)
+# Tech lead
 
-### Tech lead main roles
+## Tech lead main roles
 - **System architect and business analyst**:
     - Identify critical systems that need to change
     - Identify critical features that need to be built
@@ -98,7 +141,7 @@ TODO
 
 ⚠️Teams often fail because they overworked themselves on a feature that their product manager would have been willing to compromise on
 
-### Managing a project
+## Managing a project
 
 1. Break complex end goal into smaller pieces
 2. Put those pieces in the most effective order they should be done
@@ -141,9 +184,9 @@ Your main objectives:
         - Learn to hear, and rephrase with your own words.
         - Be a note taker.
 
-## Managing people (p50)
+# 4. Managing people
 
-### How to start a new reporting relationship.
+## How to start a new reporting relationship.
 
 - **Build trust and rapport**.
     - How do you like to be praised? (in public or private?)
@@ -169,7 +212,7 @@ Your main objectives:
     - First 90 days = fresh eyes
     - TODO
 
-### 1-1: different 1-1 styles
+## 1-1: different 1-1 styles
 
 -  **The to-do list meetings**.
     - One or both parties comes with a list of objectives to cover.
@@ -205,7 +248,7 @@ Your main objectives:
     - Do the 1-1 in private
     - Keep notes in a shared document. Keep context about when and what was said. Useful for writing review and delivering feedback.
 
-### Delegating
+## Delegating
 A good leader is good at delegating.
 
 - **Use team’s goals to understand which details to dig into.**
@@ -228,7 +271,8 @@ A good leader is good at delegating.
 - **Treat open sharing of info (good or bad) in a neutral way**.
     - ex: do not punish mistakes with micromanagement
 
-### Creating a culture of continuous feedback  (p61)
+## Creating a culture of continuous feedback
+
 1. **Know your people**.
     - What are their goals?
     - Their strengths/weaknesses?
@@ -250,7 +294,7 @@ A good leader is good at delegating.
     - Form a partnership
 
 
-### Performance reviews
+## Performance reviews
 
 - **360 model**: includes feedback from:
     - Manager
@@ -312,7 +356,7 @@ A good leader is good at delegating.
     - Help the team in areas previously neglected
 - Potential must be tied to **actions** and **value produced**, even if it’s not the value you expected to see produced.
 
-### Cultivating careers
+## Cultivating careers
 The manager plays a key role in getting people promoted.
 
 - Your job is to:
@@ -335,7 +379,7 @@ The manager plays a key role in getting people promoted.
     - Give them to people close to promotion.
     - Encourage people to volunteer.
 
-### Firing underperformers
+## Firing underperformers
 - Wite a person a **performance improvement plan**.
     - Set of clearly defined objectives that the person post achieve within a fixed period of time.
 - The process should begin long before!
@@ -344,7 +388,7 @@ The manager plays a key role in getting people promoted.
 
 ⚠️If you avoid tackling negative feedback until it builds to a building point m, you’re going to be met with a pile of excuses.
 
-## Managing a team (p75)
+# 5. Managing a team
 - The Engineering lead is an **independant manager**.  
 Roles:
     - Manage team members with different skill sets from their own
@@ -356,14 +400,14 @@ Roles:
         - do cost/benefit analysis for resolving the debt
         - communicate suggested timelines for this.
 
-### **Staying technical**.
+## **Staying technical**.
 - Engineering management is a **technical discipline**, not just a set of people skills.
 - Your job will require that you guide technical decision making.
     - **Technical instincts** honed over years of doing the job are very important for guiding this process.
 - If you truly wish to command the respect of an engineering team, they must see you as **technically credible**.
 
 
-### Debugging dysfunctional teams
+## Debugging dysfunctional teams
 - **Not shipping**
     - Learn how to balance pushing your team and holding back.
     - Start to push for the removal of processes bottlenecks:
@@ -404,7 +448,7 @@ Roles:
         - Encouraging some PG-rated humor in chat rooms
         - Asking people how their lives are going
 
-### **The shield**
+## **The shield**
 
 It’s valuable for everyone to realize that they can and should focus on the things they can impact and change, and ignore the things they can’t.
 
@@ -423,7 +467,7 @@ It’s valuable for everyone to realize that they can and should focus on the th
         - Sometimes, in combining the roles of shield and mentor we end up in a parenting-style relationship with our team, and treat them more fragile children to be protected, nurtured, and chided as appropriate.
         - Your team is made up of adults who need to be treated with appropriate respect.
 
-### How to drive good decisions
+## How to drive good decisions
 While the product manager is responsible for the product roadmap, and the tech lead is responsible for the technical details, you are accountable for the **teams progress** through each of these elements.
 
 While you may only have the authority to guide decisions rather than dictate them, you’ll still be judged by how well those decisions turn out.
@@ -457,7 +501,7 @@ While you may only have the authority to guide decisions rather than dictate the
     - This process helps you learn how the decisions you make over time affect the way your team operates in the day-to-day.
     - This is more subjective than gathering data about the team’s health, but more valuable than many objective measures.
 
-### Managing conflict 
+## Managing conflict 
 Conflict-avoidant managers tend to favor harmony above functional working relationships. Creating a safe environment for disagreement to work itself out is far better than pretending that all disagreement does not exist.
 
 - **The dos and don’ts of managing conflict**
@@ -511,7 +555,7 @@ Conflict-avoidant managers tend to favor harmony above functional working relati
         - Lay out what you expect, clearly and calmly.
         - You can’t have a person working for you who doesn’t respect you, or doesn’t respect your team.
 
-### Advanced project management
+## Advanced project management
 Project management rules of thumb:
 
 - **None of this is a replacement for agile project management**
@@ -538,7 +582,7 @@ Project management rules of thumb:
     - It’s distracting and stressful for engineers to have a manager who’s constantly asking them for random project estimates.
     - You’re responsible for handling uncertainty and limiting how much of that uncertainty you expose to the team.
 
-### First weeks joining a small team as a manager:
+## First weeks joining a small team as a manager:
 - If there’s a developer onboarding process, go through that process.
 - Start watching the code reviews or pull requests.
 - Plan to work on at least a couple of features in your first 60 days.

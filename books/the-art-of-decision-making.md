@@ -8,6 +8,20 @@ How we Move from Indecision to Smart Choices.\
 
 ___
 
+- [Part I. Indecision](#part-i-indecision)
+  - [Chapter 1. Paradise lost](#chapter-1-paradise-lost)
+  - [Chapter 2. Defence forces](#chapter-2-defence-forces)
+  - [Chapter 3. Project fear](#chapter-3-project-fear)
+  - [Chapter 4. Through the looking glass](#chapter-4-through-the-looking-glass)
+- [Part II. Where are thou?](#part-ii-where-are-thou)
+  - [Chapter 5. Self starters](#chapter-5-self-starters)
+  - [Chapter 6. Hidden chambers](#chapter-6-hidden-chambers)
+- [Part III. The momentum of decisiveness](#part-iii-the-momentum-of-decisiveness)
+  - [Chapter 7. Of the essence](#chapter-7-of-the-essence)
+  - [Chapter 8. Decision flow](#chapter-8-decision-flow)
+
+___
+
 # Part I. Indecision
 
 ## Chapter 1. Paradise lost
