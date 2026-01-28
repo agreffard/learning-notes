@@ -8,20 +8,26 @@ _Note: These learning notes sometimes contain extensive excerpts from articles a
 
 ### Books
 
-- [Extreme ownership: How U.S. Navy SEALs Lead and Win](books/extreme-ownership.md) by **Jocko Willink** and **Leif Babin**, 2015.
+- **Leadership & Management**
 
-- [Good to Great: Why Some Companies Make the Leap... and Others Don't](books/good-to-great.md) by **Jim Collins**, 2005.
+    - [Extreme ownership: How U.S. Navy SEALs Lead and Win](books/extreme-ownership.md) by **Jocko Willink** and **Leif Babin**, 2015.
 
-- [The Art of Decision-Making: How we Move from Indecision to Smart Choices](books/the-art-of-decision-making.md) by **Joseph Bikart**, 2019.
+    - [Good to Great: Why Some Companies Make the Leap... and Others Don't](books/good-to-great.md) by **Jim Collins**, 2005.
 
-- [The Future We Choose: Surviving the Climate Crisis](books/the-future-we-choose.md) by **Christiana Figueres** and **Tom Rivett-Carnac**, 2020.
+    - [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKR](books/measure-what-matters.md) by **John Doerr**, 2018.
 
-- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](books/the-managers-path.md) by **Camille Fournier**, 2017.
+    - [The Art of Decision-Making: How we Move from Indecision to Smart Choices](books/the-art-of-decision-making.md) by **Joseph Bikart**, 2019.
 
-- [[FR] Voyage vers l'infini](books/voyage-vers-l-infini.md) by **Christophe Galfard**, 2023.
+    - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](books/the-managers-path.md) by **Camille Fournier**, 2017.
+
+- **Science & Society**
+
+    - [The Future We Choose: Surviving the Climate Crisis](books/the-future-we-choose.md) by **Christiana Figueres** and **Tom Rivett-Carnac**, 2020.
+
+    - [[FR] Voyage vers l'infini](books/voyage-vers-l-infini.md) by **Christophe Galfard**, 2023.
 
 ### Articles
 
-
 - [Creating momentum when an employee is stuck](articles/creating-momentum-when-an-employee-is-stuck.md) by **Lara Hogan**, January 20, 2026
+
 - [Things I’ve learned in my 10 years as an engineering manager](articles/lessons-learned-after-10-years-as-an-engineering-manager.md) by **Jampa Uchoa**, January 16, 2026
