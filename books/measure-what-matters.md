@@ -17,6 +17,7 @@ ___
   - [12. Superpower #4: Stretch for Amazing](#12-superpower-4-stretch-for-amazing)
 - [Part II. The New World of Work](#part-ii-the-new-world-of-work)
   - [15. Continuous Performance Management: OKRs and CFRs](#15-continuous-performance-management-okrs-and-cfrs)
+  - [18. Culture](#18-culture)
 
 
 ___
@@ -258,6 +259,141 @@ TODO Gmail story
 
 > Talking can transform minds, which can transform behaviors, which can transform institutions. - Sheryl Sandberg
 
+- Annual performance reviews are costly, exhausting, and mostly futile.
+    - On average = 7.5 hours of manager time for each direct report.
+- Individuals cannot be reduced to numbers.
+
+> Not everything can that be counted counts, and not everything that counts can be counted. - Albert Einstein
+
+- Alternative: **Continuous performance management**, with an instrument called **CFR**:
+    - **Conversations**: an authentic, richly textured exchange between manager and contributor, aimed at driving performance
+    - **Feedback**: bidirectional or networked communication among peers to evaluate progress and guide future improvement
+    - **Recognition**: expressions of appreciation to deserving individuals for contributions of all sizes
+=
+- CFRs champion **transparency**, **accountability**, **empowerment**, **teamwork**.
+- They give OKRs their **human voice**.
+- OKRs anf CFRs are mutually reinforcing.
+- If a conversation is limited to whether you achieved the goal or not, you lose context.
+    - You need **continuous performance management** to surface the critical questions:
+        - _Was the goal harder to achieve than you'd thought when you set it?_
+        - _Was it the right goal in the first place?_
+        - _Is it motivating?_
+        - _Should we double down oin the 2 or 3 things that really worked for us last quarter, or is it time to consider a pivot?_
+
+### Reinventing HR
+
+- Continuous performance management will lift every individual's achievement.
+    - It elevates performance, bottom to top.
+    - It works wonders for morale and personal development, for leaders and contributors.
+
+
+| Annual Performance Management | Continuous Performance Management |
+| - | -- |
+| Annual feedback | Continuous feedback |
+| Tied to compensation | Decoupled from compensation |
+| Directing/autocratic | Coaching/democratic |
+| Outcome focused | Process focused |
+| Weakness based | Strength based |
+| Prone to bias | Fact driven |
+
+### An amicable divorce
+
+- Divorce compensation from OKRs.
+- These should be **2 dictinct conversations**, with their own cadences and calendar:
+    - First: **backward-looking assessment**
+        - held at yeald's end.
+    - Second: ongoing, **forward-looking dialogue** between leaders and contributors:
+        - _What are you working on?_
+        - _How are you doing, how are your OKRs coming along?_
+        - _Is there anything impeding your work?_
+        - _What do you need from me to be more successful?_
+        - _How do you need to grow to achieve your career goals?_
+- OKRs reflect a person's most meaningful work
+    - They're a source of reliable feedback for the cycle to come.
+- But when goals are used and abused to set compensation, employees can be counted on to sandbag.
+    - They start playing defense
+    - They stop stretching for amazing.
+    - They get bored for lack of challenge.
+    - The organization suffers most of all.
+- At Google, OKRs amount to a third or less of performance rating.
+
+
+### Conversations
+
+- The point of the 1:1 meeting:
+    - Mutual teaching and exchange of information.
+    - Should be regarded as **the subordinate's meeting** (agenda and tone).
+    - The supervisor is there to learn and coach.
+    - The supervisor should encourage the discussion of **heart-to-heart issues** (subtle and deep work-related problems).
+- 5 critical areas emerge of these 1:1s:
+    - **Goal setting and reflection**: where the employee;s OKR plan is set for the coming cycle.
+    - **Ongoing process updates**: brief and data-driven checkins on the employee's real-time progress.
+    - **Two-way coaching**: to help contributors reach their potential and managers do a better job.
+    - **Career growth**: to develop skills, identify growth opportunities, and expand employees vision of their future at the company.
+    - **Lightweight performance reviews**: feedback mechanism to gather inputs and summarize what the employees has accomplished since last meetings.
+
+### Feedback
+
+- Feedback is an **opinion**
+    - grounded in observations and experiences
+    - which allows us to know what impression we make on others.
+- Feedback must be integral to the OKRs process.
+    - If you don't know how well you are performing, how can you possibly get better?
+- Feedback can be highly constructive, but **only if specific**.
+- In mature organizations, feedback is **ad hoc**, **real-time**, and **multidirectional**.
+    - It's an **open dialogu**e between people anywhere in the organization:
+        - _What do you need from me to be successful?_
+        - _And now let me tell you what I need from you._
+
+### Recognition
+
+- **Continuous recognition** is a powerful driver of engagement.
+- How to implement it:
+    - **Institute peer-to-peer recognition**
+        - culture of gratitude
+    - **Establish clear criteria**
+        - recognize people for actions and results: completion of special projects, achievement of company goals, demonstrations of company values
+        - Replace "Employee of the Month" with "Achievement of the Month"
+    - **Share recognition stories**
+        - ex: newsletter or company blogs
+    - **Make recognition frequent and attainable**
+        - hail smaller accomplishments, too (extra effort to meet a deadline, special polish on proposal, ... = the little things a manager might take for granted)
+    - **Tie recognition to company goals and strategies**
+        - customer service, innovation, teamwork, cost cutting, ... all can be suported by a shout-out
+- Transparent OKRs make it natural for coworkers to celebrate big wins and smaller triumphs alike.
+
+## 18. Culture
+
+> You need a culture that high-fives small and innovative ideas. - Jeff Bezos
+
+- Culture is **what makes meaning of work**.
+- Goals cannot be attained in a vaccum. They require a medium.
+    - For OKRs and CFRs, the medium is an organization's culture.
+    - It's the living expression of its most cherished values and beliefs.
+- **Healthy culture** and **structured goal setting** are interdependant.
+    - They're natural partners in the quest for operating excellence.
+- When a company is **culturally coherent**, the way forward is understood.
+- An OKR culture is an **accountable culture**.
+    - You don't push toward a goal just because the boss gave you an order.
+    - You do it because every OKR is transparently important to the company, and to the colleagues who count on you.
+    - Everybody takes pride in moving progress forward.
+    - It's a self-governed social contract.
+- High-motivation cultures rely on a mix of 2 elements:
+    - **Catalysts**: actions that support work (~OKRs).
+        - Setting clear goals
+        - Allowing autonomy
+        - Providing sufficient resources and time
+        - Helping with the work
+        - Openly learning frim problems and successes
+        Allowing a free echange of ideas.
+    - **Nourishers**: acts of interpersonal support (~CFRs).
+        - Respect and recognition
+        - Encouragement
+        - Emotional comfort
+        - Opportunities for affiliation
+- Feedback is a **listening system**.
+    - Leaders cannot wait for negative critiques on Glassdoor, or for values contributors to exit for another job.
+    - They need to listen and capture signals as they are emitted.
 
 _____
 
